@@ -1,0 +1,117 @@
+*{
+    margin:0;
+    padding:0;
+}
+@font-face {
+    font-family: "Robert";
+    src: url("../fonts/PoiretOne-Regular.ttf");}
+.cait{
+    width:1280px ;
+  
+    max-width:100%;
+    margin: 0 auto;
+    
+    
+}
+.shapka{
+    width: 1280px;
+    height: 175px;
+    background-color: black;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.site{
+    font-family: Robert;
+    color:#ffd700;
+    font-size: 60px;
+}
+.port{
+    font-family: Robert;
+    color:#ffd700;
+    font-size: 60px;
+} 
+.block{
+    width: 1280px;
+    height: 825px;
+    background-color: black;
+    border-radius: 20px;
+    margin-top:25px;
+    display: flex;
+    flex-direction: column;
+}
+.onas{
+    font-family: Robert;
+    color:#ffd700;
+    font-size: 60px;
+    margin-left: 550px;
+    margin-top: 25px;
+} 
+.fotos{
+    display:flex;
+    justify-content: space-around;
+
+}
+.bmw{
+    height:225px;
+    width:300px
+}
+.porshe{
+    height:225px;
+    width:300px
+}
+.ferr{
+    height:225px;
+    width:300px
+}
+.text{
+    display:flex;
+    justify-content: space-around;
+    margin-left: 25px;
+}
+.men{
+    font-family: Robert;
+    color:#ffd700;
+    font-size: 28px;  
+    width:325px 
+}
+.kontakti{
+    font-family: Robert;
+    color:#ffd700;
+    font-size: 60px;
+    margin-left: 515px;
+    margin-top: 25px;
+}
+.ssilki{
+    display:flex;
+    justify-content: space-around;
+    margin-top: 25px;
+    margin-right: 20px;
+    
+}
+.tg{
+    width:100px;
+    height:100px;
+    margin-left: 250px;
+}
+.vk{
+    width:100px;
+    height:100px;
+    
+    
+}
+.pochta{
+    width:100px;
+    height:100px;
+    margin-right: 250px;
+}
+.design{
+    font-family: Robert;
+    color:#ffd700;
+    font-size: 28px;  
+   margin-left: 1050px;
+   margin-top: 40px;
+}
+
